@@ -6,7 +6,7 @@
 
 ### Screenshot
 
-![](design/Desktop-preview.png)
+![](Design/Desktop-preview.png)
 
 ### The challenge
 
