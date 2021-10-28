@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: https://tsimeonov.github.io/Newbie-_-Article-Preview-Component/
+- Live Site URL: https://tsimeonov.github.io/Form-Validator/
 
 ## My process
 
